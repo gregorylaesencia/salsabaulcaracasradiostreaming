@@ -1,7 +1,7 @@
 const customSlides = [
   {
     id: 0,
-    dateDescription: 'Lunes a Viernes ',
+    dateDescription: 'BIENVENID@S ',
     actionDescription: '24 HORAS',
     hourDate: 'DE SALSA'
   },
