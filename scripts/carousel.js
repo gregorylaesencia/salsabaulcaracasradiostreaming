@@ -2,92 +2,92 @@ const customSlides = [
   {
     id: 0,
     dateDescription: 'Lunes a Viernes ',
-    actionDescription: 'Mas Claro No Canta un Gallo',
-    hourDate: 'de 6:00 AM a 8:00 AM'
+    actionDescription: '24 HORAS',
+    hourDate: 'DE SALSA'
   },
   {
     id: 1,
-    dateDescription: 'Lunes a Viernes',
-    actionDescription: 'El Club de Maria Celeste',
-    hourDate: 'a las 3:00 PM'
+    dateDescription: '+58 0426/248/7621',
+    actionDescription: 'SOLICITA',
+    hourDate: 'TU TEMA'
   },
   {
     id: 2,
-    dateDescription: 'Domingos',
-    actionDescription: 'Tips de Salud',
-    hourDate: 'a las 9:30 AM'
+    dateDescription: 'ENVIA TU SALUDOS',
+    actionDescription: 'ESTAMOS',
+    hourDate: 'DOMINANDO LA ZONA'
   },
   {
     id: 3,
-    dateDescription: 'Sabados',
-    actionDescription: 'Sin compromiso',
-    hourDate: 'a las 9:00 AM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
   {
     id: 4,
-    dateDescription: 'Viernes y Sabado',
-    actionDescription: 'Que hay pa hoy',
-    hourDate: 'a las 7:00 PM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
   {
     id: 5,
-    dateDescription: 'Lunes a Viernes',
-    actionDescription: 'La hora del vallenato',
-    hourDate: 'a las 5:00 PM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
   {
     id: 6,
-    dateDescription: 'Lunes a Viernes',
-    actionDescription: 'Puro Llano',
-    hourDate: 'a las 1:00 PM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
   {
     id: 7,
-    dateDescription: 'Sabados',
-    actionDescription: 'Ingenieria para la vida',
-    hourDate: 'a las 10:00 AM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
   {
     id: 8,
-    dateDescription: 'Martes y Jueves',
-    actionDescription: 'A tu estilo',
-    hourDate: 'a las 4:00 PM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
   {
     id: 9,
-    dateDescription: 'Lunes a Viernes',
-    actionDescription: 'Parranda Gaitera',
-    hourDate: 'a las 1:00 PM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
   {
     id: 10,
-    dateDescription: 'Jueves',
-    actionDescription: 'Sexo Gourmet',
-    hourDate: 'a las 9:30 PM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
   {
     id: 11,
-    dateDescription: 'Sabados',
-    actionDescription: 'Pateando La Calle',
-    hourDate: 'a las 9:00 AM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
   {
     id: 12,
-    dateDescription: 'Lunes a Sabado',
-    actionDescription: 'Clasificados Mix',
-    hourDate: 'a las 1:00 PM & 6:00 PM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
   {
     id: 13,
-    dateDescription: 'Lunes a Viernes',
-    actionDescription: 'Mix Party',
-    hourDate: 'a las 7:00 PM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
   {
     id: 14,
-    dateDescription: 'Lunes a Viernes',
-    actionDescription: 'Que Hable Mi Gente',
-    hourDate: 'a las 12:00 PM'
+    dateDescription: '',
+    actionDescription: '',
+    hourDate: ''
   },
  ];
 
